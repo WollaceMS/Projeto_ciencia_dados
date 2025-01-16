@@ -1,5 +1,5 @@
 # Projeto_ciencia_dados
- Projeto de Data Science: Previsão de Preços do Airbnb no Rio de Janeiro
+##  Projeto de Data Science: Previsão de Preços do Airbnb no Rio de Janeiro
 
 Este repositório apresenta um projeto de Data Science com foco na previsão de preços para aluguéis de apartamentos do Airbnb localizados no Rio de Janeiro. Utilizando dados históricos e técnicas de aprendizado de máquina, o objetivo é criar um modelo capaz de prever os preços com precisão, levando em conta diversas variáveis.
 
